@@ -1,1 +1,0 @@
-James Bumanlag. Documenting my progress through [Nat Eliason's Build Your Own Apps](https://www.buildyourownapps.ai/). I'm learning how to build software tools and applications that solve real problems. I think a lot about learning in public, building intuitive interfaces, and creating useful tools. 
